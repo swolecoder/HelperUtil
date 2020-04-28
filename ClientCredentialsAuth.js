@@ -9,8 +9,8 @@ const data = {
 };
 
 const auth = {
-  username: "gyFdnI0bFjU7dffLgt2dlhcUWeAa",//client ID
-  password: "Qh0dzEXpw5SANKYyIwRXz80H9EQa", // client secret
+  username: "",//client ID
+  password: "", // client secret
 };
 
 const options = {
