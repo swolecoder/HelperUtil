@@ -23,7 +23,7 @@ const options = {
   url,
 };
 
-export const getLeaderBoardData = async (url) => {
+export const getAccessToken = async (url) => {
   try {
     let authToken = await axios(options);
     if (authToken.status === 200) {
